@@ -17,7 +17,7 @@
 
 ### Релиз 2 - Отчистка DataFrame:
 - [preprocessing.ipynb](https://github.com/Saveliy-Vorobev/apartment-price-analytics/blob/main/notebooks/preprocessing.ipynb) - провели обработку данных.
-- [data.csv]: На основе обработанного датафрейма подготовили dataset, отвечающий критериям:
+- [data.csv](https://github.com/Saveliy-Vorobev/apartment-price-analytics/blob/main/data/data.csv): На основе обработанного датафрейма подготовили dataset, отвечающий критериям:
  ▪ названия колонок на английском языке в одно/несколько слов с нижним подчёркиванием
  ▪ в каждой колонке должны отсутствовать пропущенные значения (NaN, None и т.д.)
  ▪ удалили лишние признаки из dataframe
